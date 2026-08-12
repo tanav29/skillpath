@@ -107,8 +107,8 @@ export default function Skillpath({
         <div className="nav-links">
           <a href="#courses">Explore</a>
           <a href="#about">Our approach</a>
-          <a href="#footer">
-            Sign in <span aria-hidden>↗</span>
+          <a href="https://github.com/tanav29/skillpath">
+            Source Code <span aria-hidden>↗</span>
           </a>
         </div>
         <a className="menu" href="#courses" aria-label="Go to courses">
